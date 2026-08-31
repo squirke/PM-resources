@@ -212,22 +212,4 @@ Several skills include executable CLI tools in their `scripts/` directories:
 
 ---
 
-## Articles & Blogs
-
-*Coming soon...*
-
----
-
-## Tools & Frameworks
-
-*See [AI Skills for Product Managers](#ai-skills-for-product-managers) above for interactive tools and templates.*
-
----
-
-## Communities
-
-*Coming soon...*
-
----
-
 *Last updated: August 2026*
